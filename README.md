@@ -22,11 +22,5 @@ via ESP32 and analyzing it with Python and ML forecasting.
 Python | pandas | matplotlib | MicroPython | ESP32
 
 ## Screenshots
-### Circuit (Wokwi)
-## Screenshots
-
-### Circuit (Wokwi)
-![Circuit](circuit.png)
-
-### Analysis
-![Chart](chart.png)
+![Wokwi Circuit](wokwi.png)
+![Analysis Chart](chart.png)
