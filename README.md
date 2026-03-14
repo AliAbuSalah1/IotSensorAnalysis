@@ -30,5 +30,3 @@ Python | pandas | matplotlib | MicroPython | ESP32
 
 ### Analysis
 ![Chart](chart.png)
-### Analysis
-![Chart](chart.png)
