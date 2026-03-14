@@ -20,3 +20,15 @@ via ESP32 and analyzing it with Python and ML forecasting.
 
 ## Tech Stack
 Python | pandas | matplotlib | MicroPython | ESP32
+
+## Screenshots
+### Circuit (Wokwi)
+## Screenshots
+
+### Circuit (Wokwi)
+![Circuit](circuit.png)
+
+### Analysis
+![Chart](chart.png)
+### Analysis
+![Chart](chart.png)
